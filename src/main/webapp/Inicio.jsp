@@ -13,6 +13,7 @@
     </head>
     <body>
         <h1>Historia del inicio</h1>
+        <%@include file="Menu.jsp"%>
         <p>Tras la formación de la Tierra, hace unos 4.500 millones de años, la composición química de la atmósfera sufrió grandes fluctuaciones, hasta que se estabilizó lo suficiente como para concebir los primeros indicios de vida.
         En las primeras etapas de la vida, se cree que había un revoltijo de moléculas y sustancias químicas dentro de los cuerpos de agua; a menudo, se le denomina sopa molecular primordial o sopa prebiótica. 
         Se considera que hace entre 4.500 y 3.700 millones de años, dentro del amasijo de la sopa primordial, hubo suficiente energía —quizá procedente de fuentes hidrotermales o rayos producido durante tormentas 

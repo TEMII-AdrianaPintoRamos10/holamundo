@@ -13,13 +13,6 @@
     </head>
     <body>
         <h1>Pagina principal APR</h1>
-        <ul>
-            <li><a href="Inicio.jsp">Inicio</a></li>
-            <li><a href="quien.jsp">Quienes somos</a></li>
-            <li>Servicios</li>
-            <li>Contactos</li>
-            <li>Item</li>
-        </ul>
-
+        <%@include file="Menu.jsp"%>
     </body>
 </html>

@@ -13,6 +13,7 @@
     </head>
     <body>
         <h1>¿Quienes somos y de donde venimos?</h1>
+        <%@include file="Menu.jsp"%>
         <p>Los humanos no son ya mas que una variante zoologica relativamente reciente y sofisticada
         con virtudes y defecto a nivel adaptativo, con un futuro tan fragil como el de cualqueir otro
         ente viviete.Cuestiones que no han desaparecido del inconciente colectivo por mucho que suelen
