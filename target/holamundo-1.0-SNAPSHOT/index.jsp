@@ -14,8 +14,8 @@
     <body>
         <h1>Pagina principal APR</h1>
         <ul>
-            <li>Inicio</li>
-            <li>Quienes somos</li>
+            <li><a href="Inicio.jsp">Inicio</a></li>
+            <li><a href="quien.jsp">Quienes somos</a></li>
             <li>Servicios</li>
             <li>Contactos</li>
             <li>Item</li>
