@@ -1,9 +1,7 @@
 <%-- 
     Document   : quien
-    Created on : 30-mar-2024, 20:02:37
     Author     : Ramos
 --%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>

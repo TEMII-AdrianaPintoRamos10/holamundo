@@ -1,9 +1,7 @@
 <%-- 
     Document   : Inicio
-    Created on : 30-mar-2024, 19:49:14
     Author     : Ramos
 --%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
